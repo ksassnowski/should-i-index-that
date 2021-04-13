@@ -1,0 +1,18 @@
+[document]
+author = "Kai Sassnowski – kai-sassnowski.com – @warsh33p"
+company-name = ""
+slide-size = "16:9"
+theme = "krakow"
+brand-logo-scale = "100"
+disable-smart-templates = "false"
+slide-number = "Laravel Worldwide Meetup"
+
+[settings]
+drawerPosition = 0.65
+textViewCursorLength = 0
+textViewCursorLocation = 497
+textViewScrollPosition = 541
+
+
+[overrides]
+hide-bottom-bar = false
