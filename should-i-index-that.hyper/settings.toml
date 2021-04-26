@@ -9,9 +9,9 @@ slide-number = "Laravel Worldwide Meetup"
 
 [settings]
 drawerPosition = 0.6999398677089597
-textViewCursorLength = 0
-textViewCursorLocation = 2934
-textViewScrollPosition = 4418
+textViewCursorLength = 5
+textViewCursorLocation = 5872
+textViewScrollPosition = 8025
 
 
 [overrides]

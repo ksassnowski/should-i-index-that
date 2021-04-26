@@ -264,7 +264,8 @@ Query is used to **generate a report** that gets **sent to each seller** at the 
 - Pre-compute metric during the month
 
 --- ::number: true , master: regular1
-image
+
+![](output-onlinepngtools_(1)_1.png)
 
 :: size: 180
 ## **Case #2**
@@ -272,7 +273,8 @@ image
 Query is used to display a real-time chart on the seller’s dashboard page.
 
 --- ::number: true, master: regular1, alignment: right
-image
+
+![](output-onlinepngtools_(1)_1.png)
 
 :: size: 180
 ## **Case #2**
