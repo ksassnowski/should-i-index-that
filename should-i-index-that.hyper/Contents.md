@@ -60,10 +60,10 @@ All examples assume that there are no existing indices.
 
 --- ::number: true, master: regular2
 # Vote now!
-## https://www.strawpoll.me/42936763
+## https://www.strawpoll.me/45197407
 
 --- ::number: true
-![website](https://www.strawpoll.me/42936763)
+![website](https://www.strawpoll.me/45197407/r)
 
 --- ::number: true, master: regular2
 # The correct answer was...
@@ -101,6 +101,10 @@ _(pause for dramatic effect)_
 # So what?
 
 --- :: number: true, master: title1
+:: size: 130
+# Indices _don't work well_ for queries that return _lots of data_
+
+--- ::number: true, master: title1
 :: size: 140, theme: InspiredGitHub
 ```sql
  SELECT *
@@ -133,10 +137,6 @@ count(*): 1932891 ❶
 # Well **then...**
 
 --- :: number: true, alignment: right, master: regular1
-:: size: 130
-# Indices _don't work well_ for queries that return _lots of data_
-
---- ::number: true, master: title1
 :: size: 110
 # A really quick explanation[^1]
 

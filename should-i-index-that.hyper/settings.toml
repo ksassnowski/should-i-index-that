@@ -8,10 +8,10 @@ disable-smart-templates = "false"
 slide-number = "Laravel Worldwide Meetup"
 
 [settings]
-drawerPosition = 0.6999398677089597
-textViewCursorLength = 5
-textViewCursorLocation = 5872
-textViewScrollPosition = 8025
+drawerPosition = 0.7
+textViewCursorLength = 0
+textViewCursorLocation = 1087
+textViewScrollPosition = 2166
 
 
 [overrides]
