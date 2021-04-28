@@ -7,3 +7,7 @@ These are the slides for the talk I gave at the Laracon Worldwide Meetup on
 [YouTube](https://www.youtube.com/watch?v=wLwVr9ToNIs).
 
 I used [Hyperdeck](https://hyperdeck.io/) to create the slides.
+
+All illustrations were drawn by me on a [ReMarkable2](https://remarkable.com/).
+
+For the historgram I used [roughViz.js](https://github.com/jwilber/roughViz).
